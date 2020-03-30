@@ -1,5 +1,4 @@
 import React,{Component} from 'react';
-import logo from '../images/logo1.jpg';
 import {FaAlignRight, FaHome, FaAddressCard} from 'react-icons/fa';
 import {Link} from 'react-router-dom';
 
